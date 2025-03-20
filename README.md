@@ -1,0 +1,19 @@
+# Blockchain-Based Poetry
+
+## Project Description
+This smart contract enables users to write and store poems on the blockchain. Each poem is permanently stored on-chain, ensuring immutability and proof of ownership.
+
+## Project Vision
+The vision behind this project is to create a decentralized and censorship-resistant platform for poets. By storing poems on the blockchain, we ensure their preservation and provide an open, fair platform for literary expression.
+
+## Future Scope
+- **NFT Integration**: Convert poems into NFTs for ownership and monetization.
+- **Poem Rating System**: Allow users to like and comment on poems.
+- **Author Rewards**: Implement a system to reward poets based on community engagement.
+- **Decentralized Publishing**: Provide options for poets to share their work across different platforms.
+
+## Key Features
+- **Write & Store Poems**: Users can write poems and store them permanently on-chain.
+- **Immutable Storage**: Poems are stored in a tamper-proof manner.
+- **Ownership Tracking**: Each poem is linked to its author's Ethereum address.
+- **Poem Retrieval**: Any user can retrieve poems by index.
